@@ -51,3 +51,71 @@ More detailed and refined versions, often closer to the final design, including 
 ### Type of Wireframe used
 High-Fidelity Wireframes: 
 More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+# DISCUSSION
+## Popular Wireframing Tools.
+
+## FIGMA
+Figma has very quickly become the gold standard when it comes to wireframing and digital app design. Initially, this was due to the fact that it was web-based with collaboration features, which quickly eclipsed the usefulness of desktop-based tools like Sketch and Adobe Photoshop. But it's since grown into a robust tool that's suitable for beginners, professionals, and even non-designers. 
+### Figma pros:
+Generous free plan
+Whiteboard/brainstorming tool
+Collaboration options across teams
+Access to a huge active community with free resources like UI components, and icon sets
+### Figma cons:
+Learning curve for more advanced features
+
+## Moqups 
+If you haven't used a lot of design tools but want to get started quickly with wireframing, Moqups is a good bet.
+Once you sign up for your account, you can jumpstart a design by choosing one of many templates available (since I was designing a mobile app login, I chose that option). Non-designers might also be attracted to the templates available for flowcharts and even business strategy sessions.
+### Moqups pros:
+Beginner-friendly with an easy-to-use interface
+Solid assortment of team collaboration options
+Flexible tool for wireframing, prototyping, and flowcharts
+### Moqups cons:
+Can't be used without an internet connection
+Smaller feature set compared to some other tools on this list
+Export options are extremely limited (PNG, PDF, and HTML)
+
+## Balsamiq 
+Balsamiq is an oldie-but-goodie that lets you create quick digital sketches even if you've never stepped foot in a design tool. You won't have to work with pixels or HEX codes, but you'll still be able to create somewhat realistic wireframes to present to clients and stakeholders, or just to communicate ideas within your team.
+### Balsamiq pros:
+Extremely minimal, simplified interface
+Pre-designed UI elements available
+Can use without an account
+### Balsamiq cons:
+No custom design element options
+Limited prototyping options
+
+## UXPin
+When creating a new design in UXPin, you can choose whether to import an existing design from a tool like Figma, import code, or start from scratch. Once you're in the design canvas, you can quickly create a wireframe using a small-but-mighty built-in library of UI elements that can be dragged and dropped directly onto your canvas.
+### UXPin pros:
+High-fidelity wireframing options
+Live presentation and documentation capabilities
+### UXPin cons:
+The interface itself isn't particularly user-friendly
+Limited pre-designed UI kit
+
+## Justinmind 
+Justinmind is not only easy to learn and enjoyable to use; it also maintains a strong focus on helping you create a wireframe that can be almost immediately tested as a working prototype.
+### Justinmind pros:
+Advanced interactive components and elements
+Easy-to-learn interface
+### Justinmind cons:
+No web-based version: you have to download the app to your device
+Can get laggy with large, complex design files
+Free plan is limited to 1 project
+
+## Visily 
+Visily stands out as a really fun design aid.
+The interface and UX of the tool is clean and almost minimal, which can give the immediate impression that it's too simple. But the more I used the tool, the more impressed I was with the overall experience.
+### Visily pros:
+Fast and effective text-to-image AI-assisted wireframing
+Easy-to-use interface
+Import screenshots of other apps and sites and turn them into editable wireframes
+Export designs directly to Figma
+
+### Visily cons:
+Limited manual design customization options
+AI-generated designs are fairly simple
+
